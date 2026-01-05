@@ -1,8 +1,8 @@
 # Mastercard-Cybersecurity-Virtual-Experience-Forage
 
 ##  Overview
-This repository documents my completion of the **Mastercard Cybersecurity Virtual Experience Program** on Forage.  
-The simulation focused on understanding **phishing attacks**, analyzing **employee susceptibility**, and creating **targeted security awareness training** based on simulated attack results.
+This repository documents my completion of the Mastercard Cybersecurity Virtual Experience Program on Forage.  
+The simulation focused on understanding phishing attacks, analyzing employee susceptibility, and creating targeted security awareness training based on simulated attack results.
 
 **Key skills demonstrated:**
 - Phishing analysis
@@ -21,7 +21,7 @@ The simulation focused on understanding **phishing attacks**, analyzing **employ
 ##  Task 1: Phishing Email Analysis & Creation
 
 ###  Initial Phishing Email Review
-The simulation began with analyzing a phishing email impersonating **Mastercard IT**, designed to pressure employees into resetting their passwords.
+The simulation began with analyzing a phishing email impersonating Mastercard IT, designed to pressure employees into resetting their passwords.
 
 **Notable characteristics:**
 - Urgent subject line
@@ -32,16 +32,16 @@ The simulation began with analyzing a phishing email impersonating **Mastercard 
 
 ###  Knowledge Check – Quiz Questions
 
-#### Q1: What is the first issue spotted in the phishing email?
-**Correct Answer:** Suspicious looking source email address  
+**Q1: What is the first issue spotted in the phishing email?**
+Correct Answer: Suspicious looking source email address  
 
 **Explanation:**
 - The sender used a Gmail address instead of an official Mastercard domain  
 - There was a subtle typo in the sender name
 
 
-#### Q2: How could the phishing email be improved to appear more believable?
-**Correct Answer:** Improve spelling, grammar & sloppy layout  
+**Q2: How could the phishing email be improved to appear more believable?**
+Correct Answer: Improve spelling, grammar & sloppy layout  
 
 **Explanation:**
 - Professional attackers focus heavily on formatting and language
@@ -49,7 +49,7 @@ The simulation began with analyzing a phishing email impersonating **Mastercard 
 
 
 ###  Phishing Email Draft
-Using the insights from the quiz, I drafted a **more realistic phishing email** to understand how attackers:
+Using the insights from the quiz, I drafted a more realistic phishing email to understand how attackers:
 - Improve presentation
 - Create urgency
 - Mimic internal IT communications
@@ -76,8 +76,8 @@ Using the insights from the quiz, I drafted a **more realistic phishing email** 
 
 ###  Knowledge Check – Risk Identification
 
-**Question:** Which teams performed poorly in the phishing simulation?  
-**✅ Correct Answer:** HR and Marketing teams  
+**Q1: Which teams performed poorly in the phishing simulation?** 
+**Correct Answer:** HR and Marketing teams  
 
 **Reasoning:**
 - Highest click-through rates
@@ -88,7 +88,7 @@ Using the insights from the quiz, I drafted a **more realistic phishing email** 
 ##  Task 3: Security Awareness Training Presentation
 
 ###  Objective
-Create a **3–5 slide security awareness presentation** targeted specifically at:
+Create a 3–5 slide security awareness presentation targeted specifically at:
 - **HR Department**
 - **Marketing Department**
 
@@ -99,7 +99,7 @@ The training was designed to be:
 - Engaging for employees
 
 
-### 📚 Training Topics Covered
+###  Training Topics Covered
 - What is phishing?
 - Common phishing tactics
 - Vishing (voice phishing)
@@ -108,7 +108,7 @@ The training was designed to be:
 
 
 ###  Key Learning
-While my presentation focused on **clarity and accuracy**, Mastercard’s reference solution emphasized:
+While my presentation focused on clarity and accuracy, Mastercard’s reference solution emphasized:
 - Visual storytelling
 - Diagrams over text
 - Minimal bullet points
@@ -118,8 +118,8 @@ While my presentation focused on **clarity and accuracy**, Mastercard’s refere
 
 
 ##  Final Takeaways
-- Phishing attacks exploit **human behavior**, not just technical vulnerabilities
-- Different departments face **different phishing risks**
+- Phishing attacks exploit human behavior, not just technical vulnerabilities
+- Different departments face different phishing risks
 - Targeted training is more effective than generic awareness programs
 - Visual communication improves learning retention
 
