@@ -32,16 +32,16 @@ The simulation began with analyzing a phishing email impersonating Mastercard IT
 
 ###  Knowledge Check – Quiz Questions
 
-**Q1: What is the first issue spotted in the phishing email?**
-Correct Answer: Suspicious looking source email address  
+#### Q1: What is the first issue spotted in the phishing email?
+**Correct Answer:** Suspicious looking source email address  
 
 **Explanation:**
 - The sender used a Gmail address instead of an official Mastercard domain  
 - There was a subtle typo in the sender name
 
 
-**Q2: How could the phishing email be improved to appear more believable?**
-Correct Answer: Improve spelling, grammar & sloppy layout  
+#### Q2: How could the phishing email be improved to appear more believable?
+**Correct Answer:** Improve spelling, grammar & sloppy layout  
 
 **Explanation:**
 - Professional attackers focus heavily on formatting and language
@@ -76,7 +76,7 @@ Using the insights from the quiz, I drafted a more realistic phishing email to u
 
 ###  Knowledge Check – Risk Identification
 
-**Q1: Which teams performed poorly in the phishing simulation?** 
+#### Q1: Which teams performed poorly in the phishing simulation? 
 **Correct Answer:** HR and Marketing teams  
 
 **Reasoning:**
