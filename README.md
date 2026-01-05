@@ -1,6 +1,6 @@
 # Mastercard-Cybersecurity-Virtual-Experience-Forage
 
-## 📌 Overview
+##  Overview
 This repository documents my completion of the **Mastercard Cybersecurity Virtual Experience Program** on Forage.  
 The simulation focused on understanding **phishing attacks**, analyzing **employee susceptibility**, and creating **targeted security awareness training** based on simulated attack results.
 
@@ -33,7 +33,7 @@ The simulation began with analyzing a phishing email impersonating **Mastercard 
 ###  Knowledge Check – Quiz Questions
 
 #### Q1: What is the first issue spotted in the phishing email?
-** Correct Answer:** Suspicious looking source email address  
+**Correct Answer:** Suspicious looking source email address  
 
 **Explanation:**
 - The sender used a Gmail address instead of an official Mastercard domain  
@@ -41,7 +41,7 @@ The simulation began with analyzing a phishing email impersonating **Mastercard 
 
 
 #### Q2: How could the phishing email be improved to appear more believable?
-** Correct Answer:** Improve spelling, grammar & sloppy layout  
+**Correct Answer:** Improve spelling, grammar & sloppy layout  
 
 **Explanation:**
 - Professional attackers focus heavily on formatting and language
@@ -54,12 +54,12 @@ Using the insights from the quiz, I drafted a **more realistic phishing email** 
 - Create urgency
 - Mimic internal IT communications
 
-⚠️ *This task was performed strictly for educational and defensive purposes.*
+ *This task was performed strictly for educational and defensive purposes.*
 
 
-## 📊 Task 2: Phishing Simulation Results Analysis
+##  Task 2: Phishing Simulation Results Analysis
 
-### 📈 Department-wise Results
+###  Department-wise Results
 
 | Team          | Email Open Rate | Click-through Rate | Phishing Success Rate |
 |---------------|-----------------|--------------------|-----------------------|
@@ -74,7 +74,7 @@ Using the insights from the quiz, I drafted a **more realistic phishing email** 
 
 
 
-### ❓ Knowledge Check – Risk Identification
+###  Knowledge Check – Risk Identification
 
 **Question:** Which teams performed poorly in the phishing simulation?  
 **✅ Correct Answer:** HR and Marketing teams  
@@ -114,7 +114,7 @@ While my presentation focused on **clarity and accuracy**, Mastercard’s refere
 - Minimal bullet points
 
 **Key takeaway:**
-> Effective cybersecurity awareness training relies on visual, scenario-based communication that employees can easily remember.
+ Effective cybersecurity awareness training relies on visual, scenario-based communication that employees can easily remember.
 
 
 ##  Final Takeaways
