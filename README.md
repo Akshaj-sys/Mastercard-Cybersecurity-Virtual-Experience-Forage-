@@ -12,7 +12,7 @@ The simulation focused on understanding phishing attacks, analysing employee sus
 * Risk-based decision making
 * Security awareness & communication
 
-## Simulation Objectives
+### Simulation Objectives
 
 * Identify red flags in phishing emails.
 * Understand how attackers improve phishing credibility.
