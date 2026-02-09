@@ -66,7 +66,6 @@ This task was performed strictly for educational and defensive purposes.
 
 ### Department-wise Results
 
-Column 1	Column 2	Column 3	Column 4
 |Team         | Email Open Rate | Click-through Rate | Phishing Success Rate |
 |-------------|-----------------|--------------------|-----------------------|
 IT	           |80%	             |2%	                 |0%                     |
